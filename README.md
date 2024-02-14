@@ -1,6 +1,6 @@
-Melanoma Prediction using CNN-based model
+****  Melanoma Prediction using CNN-based model  ****
 
-Problem Statement
+--Problem Statement--
 In this assignment, we will build a multiclass classification model using a custom convolutional neural network in tensorflow.
 
 Scope: To build a CNN based model which can accurately detect melanoma. 
